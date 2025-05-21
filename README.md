@@ -8,15 +8,17 @@
 To develop the Online Examination System using Star UML.
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+1.Traditional examination methods require physical presence, printed question papers, and manual evaluation, which are time-consuming, resource-intensive, and vulnerable to human error.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+2.Students and institutions face challenges in conducting and attending exams, especially in remote or emergency situations (e.g., pandemics, geographic limitations).
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+3.There is no centralized platform for exam creation, candidate registration, automated evaluation, and real-time monitoring in many institutions.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+4.Educational institutions need a secure and scalable system to conduct online exams with features like question randomization, time limits, auto-submission, and instant result generation.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+5.Students require a user-friendly interface to take exams remotely, track their progress, receive results, and get feedback in real time.
+
+6.The system must support role-based access for administrators, faculty, and students; ensure data security and integrity; and prevent cheating through tools like webcam monitoring or question shuffling.
 
 UML DIAGRAMS
 
