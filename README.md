@@ -8,15 +8,15 @@
 To develop the Online Examination System using Star UML.
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+1.Online Examination System is essential to replace traditional paper-based exams, which are time-consuming, require physical presence, and involve manual evaluation and result processing.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+2.Conducting exams manually poses challenges in terms of logistics, security, invigilation, and scalability, especially during emergencies or in geographically dispersed institutions.
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+3.Many institutions lack a centralized and automated system for exam creation, question management, candidate registration, and result publication.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+4.Students need a platform where they can take exams online securely, receive instant feedback, and avoid travel or physical attendance at examination centers.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+5.Examiners and administrators require tools to create question banks, set exam parameters (duration, marking, randomization), monitor exam activity, and automate result evaluation.
 
 UML DIAGRAMS
 
