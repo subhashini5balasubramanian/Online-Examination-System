@@ -1,22 +1,22 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223040211 
+# Name: SUBHASHINI . B
+
 
 
 # AIM:
 To develop the Online Examination System using Star UML.
 
 # Problem Statement:
-1.Online Examination System is essential to replace traditional paper-based exams, which are time-consuming, require physical presence, and involve manual evaluation and result processing.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Conducting exams manually poses challenges in terms of logistics, security, invigilation, and scalability, especially during emergencies or in geographically dispersed institutions.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.Many institutions lack a centralized and automated system for exam creation, question management, candidate registration, and result publication.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Students need a platform where they can take exams online securely, receive instant feedback, and avoid travel or physical attendance at examination centers.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.Examiners and administrators require tools to create question banks, set exam parameters (duration, marking, randomization), monitor exam activity, and automate result evaluation.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
 
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+![Screenshot 2025-05-14 093649](https://github.com/user-attachments/assets/03dbbff9-198a-4d2f-a115-92e3ec0981bd)
 
 
 
@@ -59,6 +60,9 @@ Create detailed charts that…
 
 
 
+![Screenshot 2025-05-14 094259](https://github.com/user-attachments/assets/788cf1eb-7c74-4f64-8954-fbd2c722c4db)
+
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -66,6 +70,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+
+![Screenshot 2025-05-14 164807](https://github.com/user-attachments/assets/6bcb09b2-709a-495e-8098-fbf8a3255225)
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +85,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+
+![Screenshot 2025-05-14 094832](https://github.com/user-attachments/assets/edcef7b3-c961-4126-8a24-aeb687559244)
 
 
 
@@ -97,6 +105,7 @@ Describe the steps performed in a UML use case.
 
 
 
+![Screenshot 2025-05-14 094707](https://github.com/user-attachments/assets/434cdf49-5f29-4c4f-a359-003e0676ed53)
 
 
 # SEQUENCE DIAGRAM
@@ -104,6 +113,9 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+
+![Screenshot 2025-05-14 165615](https://github.com/user-attachments/assets/523c88c3-5cfa-429e-a729-c2c0bcc7db60)
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
